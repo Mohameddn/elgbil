@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>محمد وكرموسه</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: linear-gradient(135deg, #fceabb, #f8b500);
+      color: #5b2c6f;
+      text-align: center;
+      direction: rtl;
+      padding: 50px 20px;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+      font-family: 'Cursive', sans-serif;
+      letter-spacing: 3px;
+    }
+    p {
+      font-size: 1.5em;
+      margin-bottom: 40px;
+    }
+    img {
+      max-width: 300px;
+      border-radius: 20px;
+      box-shadow: 0 4px 15px rgba(91, 44, 111, 0.3);
+      transition: transform 0.3s ease;
+    }
+    img:hover {
+      transform: scale(1.05);
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 1em;
+      color: #732d91;
+      opacity: 0.7;
+    }
+  </style>
+</head>
+<body>
+  <h1>محمد وكرموسه</h1>
+  <p>مرحبا بكم معاكم محمد وريتال نورتونا</p>
+  <img src="https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=400&q=80" alt="صورة صداقة رومانسية" />
+  <footer>© 2025 محمد وكرموسه</footer>
+</body>
+</html>
